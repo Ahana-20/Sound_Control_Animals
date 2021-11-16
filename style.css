@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #76D7C4;
+}
+
+.header_div{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+.header_div p{
+    font-family: monospace;
+    color:black;
+    letter-spacing: 2px;
+}
+
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-family: monospace;
+    background-color: #E74C3C;
+}
+
+.copy_right_footer{
+    position: fixed;
+    font-weight: bolder;
+    background-color: #D6DBDF;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb (151, 149, 149);
+    font-size: 18px;
+    margin-top: 10px;
+}
